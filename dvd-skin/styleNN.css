@@ -1,0 +1,13 @@
+@charset "iso-8859-1";
+@import url(style.css); 
+/* Very short Gecko-specific additions/changes here (if 
+any) */ 
+td#mainmenu a {background-color: #3A6AB2; display: block;}
+td#mainmenu a:hover {background-color: #2458A6;}
+td#mainmenu a.menuTop {border-top: 1px solid #3A3A3C; border-right: 1px solid #3A3A3C; border-bottom: 1px solid #3A3A3C; border-left: 1px solid #3A3A3C;}
+td#mainmenu a.menuMain {border-right: 1px solid #3A3A3C; border-bottom: 1px solid #3A3A3C; border-left: 1px solid #3A3A3C;}
+td#mainmenu a.menuSub {border-right: 1px solid #3A3A3C; border-bottom: 1px solid #3A3A3C; border-left: 1px solid #3A3A3C;}
+td#usermenu a {background-color: #3A6AB2; display: block;border-right: 1px solid #3A3A3C; border-bottom: 1px solid #3A3A3C; border-left: 1px solid #3A3A3C;}
+td#usermenu a:hover {background-color: #2458A6;}
+td#usermenu a.menuTop {border-top: 1px solid #3A3A3C;}
+td#usermenu a.highlight {background-color: #FCD706; color: #366692; font-family: sans-serif; font-weight: bold; font-size: 12px; font: Verdana, Arial Black; text-decoration: none}
